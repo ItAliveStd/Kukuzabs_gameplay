@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Kukuzabs_gameplay : ModuleRules
+public class KukuzabsGameplay : ModuleRules
 {
-	public Kukuzabs_gameplay(ReadOnlyTargetRules Target) : base(Target)
+	public KukuzabsGameplay(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

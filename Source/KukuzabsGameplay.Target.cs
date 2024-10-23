@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Kukuzabs_gameplayTarget : TargetRules
+public class KukuzabsGameplayTarget : TargetRules
 {
-	public Kukuzabs_gameplayTarget(TargetInfo Target) : base(Target)
+	public KukuzabsGameplayTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "Kukuzabs_gameplay" } );
+		ExtraModuleNames.AddRange( new string[] { "KukuzabsGameplay" } );
 	}
 }

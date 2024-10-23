@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Kukuzabs_gameplay",
+			"Name": "KukuzabsGameplay",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
@@ -51,10 +51,6 @@
 		},
 		{
 			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "FreeAnimHelpers",
 			"Enabled": true
 		}
 	]
