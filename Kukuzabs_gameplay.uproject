@@ -52,10 +52,6 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
-		},
-		{
-			"Name": "FreeAnimHelpers",
-			"Enabled": true
 		}
 	]
 }
